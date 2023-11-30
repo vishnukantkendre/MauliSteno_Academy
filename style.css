@@ -3,21 +3,26 @@ body{
   margin-right: 4%;
   margin-top: 1%;
 }
+
 #main{
   display: flex;
 }
 #logo{
   display:block;
   float: left;
+
 }
+
 #nav-item{
   display: block;
   float: right;
-  margin-left: 59%;
+  margin-left: 50%;
 }
 #className{
-  padding-left: 5%;
+  padding-left: 15%;
+  color: rgb(0, 0, 0);
 }
+
 #teacher{
   width: 92vw;
   display: inline-block;
@@ -46,14 +51,22 @@ header{
     #main{
       display: none;
     }
-
+    #logo{
+      width: 65px;
+    }
+    
     header{
       display: block;
+      border:2px solid red;
+
     }
     #className{
       font-family: cursive;
       padding-left: 5%;
-      color: aqua;
+      margin-top: 65%;
+      align-items: baseline;
+      border:2px solid red;
+      color: black;
     }
     #teacher{
       width: 92vw;
