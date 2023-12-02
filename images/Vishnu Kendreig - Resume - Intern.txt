@@ -1,0 +1,60 @@
+Vishnukant Kendre
+Intern
+
+Latur
++91 8767592501
+
+Experienced Web Developer adept in all stages of advanced web development. Equipped with a diverse and promising skill-set. Able to effectively self-manage during independent projects, as well as collaborate in a team setting. 
+
+PERSONAL INFORMATION
+  Address: , Latur, 
+  Nationality: 
+  Driving License: 
+  Hobbies: 
+
+SOCIAL PROFILES
+  * GitHub: https://github.com/vishnukantkendre
+
+LANGUAGES
+  ★☆☆☆☆ English
+  ★★★★☆ Hindi
+  ★★★★★ Marathi
+
+SKILLS
+  ★★★☆☆ Git
+  ★★★★☆ HTML
+  ★★★★☆ CSS
+  ★★☆☆☆ JS
+  ★★★★☆ C++
+  ★★★☆☆ JAVA
+  ★★★☆☆ C
+
+EDUCATION
+  * December 2021 – June 2025
+    M S Bidve Engineering College, Latur, Latur B.Tech
+  * June 2020 – June 2021
+    Shivaji Mahavidyalya, Udgir, Udgir HSC
+
+INTERNSHIPS
+  * August 2023 – September 2023
+    Intern at BitCode School, Latur
+
+    
+  Implemented a responsive design that ensured the web application was accessible on all devices
+  Developed an API that connected the web application with Email Js liabrary services and enabled the exchange of data in real-time
+
+  * October 2023 – November 2023
+    Intern at TechnoHacks Edutech, Latur
+
+    
+  Created a portfolio website that showcased previous work and helped acquire new clients
+   Enhanced website design to improve user experience, resulting inincrease in website conversions
+
+
+COURSES
+  * October 2022 – December 2022
+    Data Structures and Problem  Solving Bootcamp, Coffeee.io
+  * October 2023 – December 2023
+    Full Stack web Development, Udemy
+
+
