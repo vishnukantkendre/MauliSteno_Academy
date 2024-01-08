@@ -40,10 +40,24 @@ body{
 header{
   display: none;
 }
+.container{
+  justify-content: space-evenly;
+  margin-left: 4%;
+}
 .section{
  border: 1px solid #c5c4c4;
  border-radius: 1%;
 }
+
+/* about class css*/
+.slogan{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
+
   @media (max-width: 980px) {
        
     body{
@@ -57,16 +71,19 @@ header{
     }
     #logo{
       width: 70px;
-      margin-right: 5%;
+      margin-right: 8%;
     }
     
     header{
       display: block;
 
     }
+    .navbar-brand{
+      justify-content: space-evenly;
+    }
     #className{
       font-family: cursive;
-      margin-left: 5%;
+      margin-left: 1%;
       margin-top: 5%;
       align-items: baseline;
       color: black;
