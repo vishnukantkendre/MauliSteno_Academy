@@ -1,8 +1,27 @@
+
+h1 h2 h3 h4 h5 h6{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 500; 
+}
+p{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 18px;
+  font-weight: 500;
+}
+a{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 18px;
+  font-weight: 500;
+}
+alt{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 18px;
+  font-weight: 500;
+}
 body{
   margin-left: 4%;
   margin-right: 4%;
   margin-top: 1%;
-  background-color: #FFFBF5;
 }
 
 #main{
@@ -13,7 +32,9 @@ body{
   float: left;
 
 }
-
+nav{
+  background-color: #EEEEEE;
+}
 #nav-item{
   display: block;
   float: right;
@@ -21,9 +42,11 @@ body{
 }
 #className{
   padding-left: 15%;
-  color: rgb(0, 0, 0);
+ 
 }
-
+#slideimg{
+  height: 400px;
+}
 #teacher{
   width: 91vw;
   display: inline-block;
@@ -40,15 +63,91 @@ body{
 header{
   display: none;
 }
-.container{
+.containers{
   justify-content: space-evenly;
   margin-left: 4%;
+  background-color: rgb(157, 157, 255);
 }
-.section{
- border: 1px solid #c5c4c4;
- border-radius: 1%;
+#enroll{
+  background-color: rgb(255, 137, 137);
 }
 
+
+.section{
+
+ border-radius: 1%;
+}
+.aluminiP img{
+  border: 5px;
+  border-radius: 10px;
+}
+.testimonialsH{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  float: right;
+  padding-right: 44%;
+  font-family: cursive;
+  }
+
+#testimonialP{
+  gap: 1%;
+  margin-top: 1%;
+}
+#carouselExampleControlsimg{
+  height: 5%;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+  
+}
+
+.about-us {
+  width: 50%;
+  
+}
+
+.about-us h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.about-us p {
+  font-size: 1.2em;
+  line-height: 1.5;
+  margin-bottom: 30px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.about-us button {
+  background-color: #fff;
+  color: #0a0a43;
+  border: none;
+  padding: 15px 30px;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+.mission-approach {
+  width: 40%;
+  background-color: #fff;
+  color: #0a0a43;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.mission-approach h2 {
+  font-size: 1.8em;
+  margin-bottom: 10px;
+}
+
+.mission-approach p {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
 /* about class css*/
 .slogan{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -70,13 +169,13 @@ header{
       display: none;
     }
     #logo{
-      width: 70px;
+      width: 100px;
       margin-right: 8%;
+      text-wrap: wrap;
     }
     
     header{
       display: block;
-
     }
     .navbar-brand{
       justify-content: space-evenly;
@@ -96,4 +195,20 @@ header{
       width: 45vw;
     }
 
+    .testimonialsH{
+      display: flex;
+      align-items: center;
+      text-align: center;
+      float: right;
+      padding-right: 30%;
+      font-family: cursive;
+      }
+      #aluminiP{
+        height: 35vh;
+      }
+      #slideimg{
+        height: 200px;
+      }
+      
+    
   }
